@@ -1,0 +1,11 @@
+# Ignore secrets and local state
+.env*
+*.key
+*secret*
+*credential*
+*.pem
+id_rsa*
+*.session
+node_modules/
+__pycache__/
+.DS_Store
