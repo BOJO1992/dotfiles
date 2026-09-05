@@ -1,1 +1,0 @@
-github write-path e2e test artifact
